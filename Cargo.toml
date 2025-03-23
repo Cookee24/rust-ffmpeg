@@ -115,4 +115,5 @@ optional = true
 
 [dependencies.ffmpeg-sys-next]
 git = "https://github.com/Cookee24/rust-ffmpeg-sys.git"
+branch = "patch"
 default-features = false
